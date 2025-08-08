@@ -3,6 +3,7 @@
 > An interactive **Spam Email Classifier** built with **Logistic Regression**, **Bag of Words**, and **Streamlit**. Classifies emails as **SPAM** or **HAM** with confidence scores and explains predictions by highlighting influential words. Features a custom-styled UI with background image support.
 
 ---
+![App Screenshot](algocomparision.png)
 ## ✨ Features
 
 - 📤 **Upload** or paste your email text  
