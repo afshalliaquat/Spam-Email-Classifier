@@ -49,8 +49,8 @@
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/afshalliaquat/spam-email-classifier.git
-cd spam-email-classifier
+git clone https://github.com/afshalliaquat/Spam-Email-Classifier.git
+cd Spam-Email-Classifier
 ````
 
 ### 2️⃣ Install dependencies
